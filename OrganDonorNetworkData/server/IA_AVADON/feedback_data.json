@@ -1,0 +1,105 @@
+[
+  {
+    "messageId": "1741814858528",
+    "isPositive": true,
+    "userMessage": "hola",
+    "botResponse": "¡Hola! ¿Tienes alguna pregunta sobre compatibilidad sanguínea?",
+    "timestamp": "2025-03-12T21:27:42.855Z"
+  },
+  {
+    "messageId": "1741814983265",
+    "isPositive": true,
+    "userMessage": "puedo donar si estoy embarazada?",
+    "botResponse": "Las principales contraindicaciones para donar sangre incluyen:\n\n- Enfermedades transmisibles\n- Procedimientos invasivos recientes\n- Ciertas condiciones médicas\n- Medicamentos específicos\n\nEs importante ser honesto en la entrevista previa a la donación para garantizar la seguridad.",
+    "timestamp": "2025-03-12T21:30:19.730Z"
+  },
+  {
+    "messageId": "1741814959794",
+    "isPositive": true,
+    "userMessage": "que debo hacer en una emergencis",
+    "botResponse": "En situaciones de emergencia donde no hay tiempo para determinar el tipo de sangre del paciente, se utiliza sangre O negativa (O-) ya que es el donante universal y puede ser transfundida de manera segura a cualquier persona. Tambien se puede usar O+ para pacientes Rh positivos. Los hospitales mantienen reservas especiales de estos tipos para emergencias.",
+    "timestamp": "2025-03-12T21:30:22.568Z"
+  },
+  {
+    "messageId": "1741814906515",
+    "isPositive": true,
+    "userMessage": "si soy AB+, a quien puedo donar",
+    "botResponse": "Si eres tipo AB+, puedes RECIBIR sangre de: O-, O+, B-, B+, A-, A+, AB-, AB+ y puedes DONAR a: AB+. Esto es debido a la presencia de antigenos y anticuerpos en la sangre que determinan la compatibilidad. ¿Te gustaria saber mas sobre otros tipos de sangre?",
+    "timestamp": "2025-03-12T21:30:25.688Z"
+  },
+  {
+    "messageId": "1741815039255",
+    "isPositive": true,
+    "userMessage": "estoy embarazada, es un problema para donar?",
+    "botResponse": "Las principales contraindicaciones para donar sangre incluyen:\n\n- Enfermedades transmisibles\n- Procedimientos invasivos recientes\n- Ciertas condiciones médicas\n- Medicamentos específicos\n\nEs importante ser honesto en la entrevista previa a la donación para garantizar la seguridad.",
+    "timestamp": "2025-03-12T21:30:44.642Z"
+  },
+  {
+    "messageId": "1741815058256",
+    "isPositive": true,
+    "userMessage": "no entiendo el sentido de la vida",
+    "botResponse": "Aprecio tu pregunta, pero debo ser honesto: soy un asistente medico especializado especificamente en hematologia. Mi conocimiento se centra en temas de sangre, transfusiones y temas medicos relacionados. ¿Te gustaria saber algo sobre estos temas?",
+    "timestamp": "2025-03-12T21:31:06.820Z"
+  },
+  {
+    "messageId": "1741815133177",
+    "isPositive": false,
+    "userMessage": "sangre",
+    "botResponse": "Lo siento, como asistente médico especializado en temas de sangre, no puedo responder esa pregunta. ¿Te gustaría saber algo específico sobre tipos de sangre, donaciones o transfusiones?",
+    "timestamp": "2025-03-12T21:32:22.966Z"
+  },
+  {
+    "messageId": "1741815442883",
+    "isPositive": false,
+    "userMessage": "sangre",
+    "botResponse": "Lo siento, como asistente médico especializado en temas de sangre, no puedo responder esa pregunta. ¿Te gustaría saber algo específico sobre tipos de sangre, donaciones o transfusiones?",
+    "timestamp": "2025-03-12T21:37:30.795Z"
+  },
+  {
+    "messageId": "1741815442883_new",
+    "isPositive": true,
+    "botResponse": "Lo siento, como asistente médico especializado en temas de sangre, no puedo responder esa pregunta. ¿Te gustaría saber algo específico sobre tipos de sangre, donaciones o transfusiones?",
+    "timestamp": "2025-03-12T21:37:48.355Z"
+  },
+  {
+    "messageId": "1741815540083",
+    "isPositive": true,
+    "userMessage": "Ñonga",
+    "botResponse": "Lo siento, como asistente médico especializado en temas de sangre, no puedo responder esa pregunta. ¿Te gustaría saber algo específico sobre tipos de sangre, donaciones o transfusiones?",
+    "timestamp": "2025-03-12T21:39:08.676Z"
+  },
+  {
+    "messageId": "initial",
+    "isPositive": true,
+    "botResponse": "¡Hola! Soy tu asistente virtual especializado en compatibilidad sanguínea. ¿En qué puedo ayudarte?",
+    "timestamp": "2025-03-12T21:43:04.453Z"
+  },
+  {
+    "messageId": "1741815788468",
+    "isPositive": true,
+    "userMessage": "hola, que tal",
+    "botResponse": "¡Hola! ¿Tienes alguna pregunta sobre compatibilidad sanguínea?",
+    "timestamp": "2025-03-12T21:43:13.437Z"
+  },
+  {
+    "messageId": "1741815814056",
+    "isPositive": true,
+    "userMessage": "soy B-, con quien soy compatible",
+    "botResponse": "Si eres tipo B-, puedes RECIBIR sangre de: O-, B- y puedes DONAR a: B-, B+, AB-, AB+. Esto es debido a la presencia de antigenos y anticuerpos en la sangre que determinan la compatibilidad. ¿Te gustaria saber mas sobre otros tipos de sangre?",
+    "timestamp": "2025-03-12T21:43:40.380Z"
+  },
+  {
+    "messageId": "1741815845520",
+    "isPositive": true,
+    "userMessage": "cuales son los tipos de sangre",
+    "botResponse": "Los tipos de sangre se dividen en cuatro grupos principales que se combinan con el factor Rh:\n\n🔶 Tipo A (A+ y A-): Presente en el 40% de la poblacion\n🔶 Tipo B (B+ y B-): Presente en el 11% de la poblacion\n🔶 Tipo AB (AB+ y AB-): El mas raro, solo 4% de la poblacion\n🔶 Tipo O (O+ y O-): El mas comun, 45% de la poblacion\n\n¿Quieres saber mas sobre las compatibilidades entre estos tipos?",
+    "timestamp": "2025-03-12T21:46:34.958Z"
+  },
+  {
+    "messageId": "1741815998713",
+    "isPositive": true,
+    "userMessage": "que son las plaquetas",
+    "botResponse": "Las plaquetas son celulas sanguineas esenciales para la coagulacion. Son necesarias para: 1) Detener hemorragias, 2) Tratamiento de cancer, 3) Cirugias mayores, 4) Trasplantes de organos. La donacion de plaquetas (aferesis) es un proceso especial que dura mas que la donacion de sangre regular, pero las plaquetas se regeneran mas rapidamente.",
+    "timestamp": "2025-03-12T21:46:44.044Z"
+  }
+]
