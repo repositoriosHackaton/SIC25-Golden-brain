@@ -10,13 +10,12 @@ Aron Quiroz
 
 1. [AVADON: Asistente virtual para el sistema de donación de sangre](#Nombre)
 2. [El proyecto A.V.A.D.O.N. (Asistente Virtual Administrativo para la Donación de Órganos en Venezuela) busca optimizar el proceso de donación y trasplante de órganos en el país mediante el uso de inteligencia artificial y automatización de datos. Actualmente, Venezuela enfrenta serios desafíos en este ámbito debido a la falta de eficiencia en la gestión administrativa, lo que provoca retrasos en la asignación de órganos y, en muchos casos, la pérdida de oportunidades de salvar vidas.
-IMAGEEEEEEEN
+![WhatsApp Image 2025-03-12 at 5 36 04 PM](https://github.com/user-attachments/assets/5175dec1-e427-47ab-a970-2644cc4b8e9e)
 
 3. Arquitectura del proyecto + imagen
 Arquitectura: modulos usados: Tiene 2 modelos de clasificacion de sangre distintos entre si con la misma funcion. (modelo_donacion.pkl y modelo_recepcion.pkl)
 Núcleo de la Inteligencia Artificial: LTK (Natural Language Toolkit), Tensorflow.
-![Uploading WhatsApp Image 2025-03-12 at 6.16.32 PM.jpeg…]()
-
+![WhatsApp Image 2025-03-12 at 6 16 32 PM](https://github.com/user-attachments/assets/5da0f3c9-aaa8-458e-90cc-d8ae824f231a)
 
 Herramientas de trabajo
 python, html, css, js, google site, Editor: Visual Studio Code, Replit, (Por los momentos).
@@ -70,7 +69,6 @@ https://www.swissinfo.ch/spa/trasplante-de-%C3%B3rganos-en-venezuela-la-utop%C3%
 Funcionalidades extra: Integración de proyecto en dos páginas web
 
 Primera página web: Interfaz de gestion de donantes junto al chatbot: HTML, CSS, JavaScript y Python. Arquitectura:
-![WhatsApp Image 2025-03-12 at 5 36 04 PM](https://github.com/user-attachments/assets/5175dec1-e427-47ab-a970-2644cc4b8e9e)
 ![WhatsApp Image 2025-03-12 at 5 36 49 PM](https://github.com/user-attachments/assets/491ef4bf-f45f-495c-b651-346c7a609815)
 
 Segunda pagina web: google site.
