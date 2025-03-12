@@ -3,10 +3,15 @@
 Estudiantes en programacion de python y desarollo de inteligencia artificial inteligencia artificial de Samsung.
 
 *Integrantes*
+
 Sebastián Romero 
+
 Miguel Domínguez 
+
 Kelvin Moya
+
 Gabriel Conde
+
 Aron Quiroz
 
 1. [AVADON: Asistente virtual para el sistema de donación de sangre](#Nombre)
