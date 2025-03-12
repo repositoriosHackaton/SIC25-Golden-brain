@@ -8,31 +8,20 @@ Kelvin Moya
 Gabriel Conde
 Aron Quiroz
 
-## Tabla de contenidos
-
-1. [Nombre](#Nombre)
-2. [Descripción](#descripción)
-3. [Arquitectura](#Arquitectura)
-4. [Proceso](#Proceso)
-5. [Funcionalidades](#Funcionalidades)
-6. [Estado del proyecto](#EstadoDelProyecto)
-7. [Agradecimientos](#Agradecimientos)
-
 1. [AVADON: Asistente virtual para el sistema de donación de sangre](#Nombre)
 2. [El proyecto A.V.A.D.O.N. (Asistente Virtual Administrativo para la Donación de Órganos en Venezuela) busca optimizar el proceso de donación y trasplante de órganos en el país mediante el uso de inteligencia artificial y automatización de datos. Actualmente, Venezuela enfrenta serios desafíos en este ámbito debido a la falta de eficiencia en la gestión administrativa, lo que provoca retrasos en la asignación de órganos y, en muchos casos, la pérdida de oportunidades de salvar vidas.
 IMAGEEEEEEEN
 
 3. Arquitectura del proyecto + imagen
-Arquitectura: modulos usados:  Núcleo de la Inteligencia Artificial: 
-NLTK (Natural Language Toolkit), Tensorflow.
+Arquitectura: modulos usados: Tiene 2 modelos de clasificacion de sangre distintos entre si con la misma funcion. (modelo_donacion.pkl y modelo_recepcion.pkl)
+Núcleo de la Inteligencia Artificial: LTK (Natural Language Toolkit), Tensorflow.
+![Uploading WhatsApp Image 2025-03-12 at 6.16.32 PM.jpeg…]()
+
 
 Herramientas de trabajo
 python, html, css, js, google site, Editor: Visual Studio Code, Replit, (Por los momentos).
 
 4. Proceso de desarrollo: 
-
--Fuente del dataset
-
 -Limpieza de datos (img que lo valide)
 ![imagen](https://github.com/user-attachments/assets/4c3566fe-2c97-46a2-8ef6-e096e169fa6f)
 
@@ -80,14 +69,11 @@ https://www.swissinfo.ch/spa/trasplante-de-%C3%B3rganos-en-venezuela-la-utop%C3%
 
 Funcionalidades extra: Integración de proyecto en dos páginas web
 
-Primera página web: Interfaz de gestion de donantes: HTML, CSS, JavaScript. Arquitectura:
+Primera página web: Interfaz de gestion de donantes junto al chatbot: HTML, CSS, JavaScript y Python. Arquitectura:
 ![WhatsApp Image 2025-03-12 at 5 36 04 PM](https://github.com/user-attachments/assets/5175dec1-e427-47ab-a970-2644cc4b8e9e)
+![WhatsApp Image 2025-03-12 at 5 36 49 PM](https://github.com/user-attachments/assets/491ef4bf-f45f-495c-b651-346c7a609815)
 
-
-Segunda pagina web: google site
+Segunda pagina web: google site.
 ![imagen](https://github.com/user-attachments/assets/03a240a0-5cff-42ae-993e-50d5a9d40ec7)
-
-Funcionalidades extras: Se desarrolló un chatbot.
-(Culminado)
 
 6. Estado del proyecto Culminado.
